@@ -1,4 +1,4 @@
-package com.citi.ace;
+package com.singhania.kafka;
 
 public interface AceKafkaOnMessageInterface<K, V> {
 
