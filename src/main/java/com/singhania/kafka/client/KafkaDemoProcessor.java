@@ -1,4 +1,4 @@
-package com.citi.ace.client;
+package com.singhania.kafka.client;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
