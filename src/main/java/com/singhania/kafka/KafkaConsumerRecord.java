@@ -1,4 +1,4 @@
-package com.citi.ace;
+package com.singhania.kafka;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.common.record.RecordBatch;
