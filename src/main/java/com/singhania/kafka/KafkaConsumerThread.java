@@ -1,4 +1,4 @@
-package com.citi.ace;
+package com.singhania.kafka;
 
 import java.io.IOException;
 import java.io.InputStream;
