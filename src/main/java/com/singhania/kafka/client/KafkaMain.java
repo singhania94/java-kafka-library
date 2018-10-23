@@ -1,4 +1,4 @@
-package com.citi.ace.client;
+package com.singhania.kafka.client;
 
 import java.io.IOException;
 
